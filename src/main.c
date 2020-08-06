@@ -1,7 +1,7 @@
 /**
     * File:        : main.c
     * Information  : Simple Calculator in C.
-    * Author       : Abdelrahman Mohamed
+    * Author       : Abdelrahman Helaly
     * Date         : 2018-06-12
 */
 
